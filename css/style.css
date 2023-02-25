@@ -238,6 +238,7 @@ ul {
     color: #ffffff;
     font-size: 17px;
     height: 37px;
+    z-index: 2;
     background: transparent;
     border-bottom: solid 2px #ffffff;
     caret-color: #ffffff;
