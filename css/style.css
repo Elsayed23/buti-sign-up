@@ -192,6 +192,7 @@ ul {
     transition: .5s;
     color: #ffffff;
     font-size: 17.3px;
+     z-index: 1;
 }
 .inputs div label {
     position: relative;
@@ -225,6 +226,7 @@ ul {
     background: transparent;
     border-bottom: solid 2px #ffffff;
     caret-color: #ffffff;
+     z-index: 2;
 }
 .inputs div .md {
     position: absolute;
